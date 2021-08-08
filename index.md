@@ -1,3 +1,3 @@
 # Visualizations of Various Things
 
-Below are links to various projects, each with sets of visualizations.
+- [Southern Minnesota Democratic Study Group](https://rflperry.github.io/visualizations/smndsg)
